@@ -24,3 +24,11 @@
 
 I am practicing Git and GitHub step by step.
 
+
+
+\## Git Workflow
+
+
+
+I can now create commits and push changes to GitHub.
+
