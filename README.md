@@ -1,11 +1,3 @@
-\# Git Practice
-
-
-
-This repository is created to practice Git and GitHub.
-
-
-
 \## What I am learning
 
 
@@ -23,4 +15,12 @@ This repository is created to practice Git and GitHub.
 \- Push
 
 \- Pull
+
+
+
+\## My Goal
+
+
+
+I am practicing Git and GitHub step by step.
 
